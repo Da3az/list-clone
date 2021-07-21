@@ -11,6 +11,7 @@ Live demo can be found in https://list-clone.vercel.app/
 ## Technologies & Tools
 
 * React
+* NextJS
 * Redux
 * TailwindCSS
  
