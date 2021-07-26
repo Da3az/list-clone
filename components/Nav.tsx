@@ -2,9 +2,7 @@ import {requests} from '../utils/requests';
 import {useRouter} from 'next/router';
 
 function Nav({genre}:{genre:string}) {
-    // console.log(genre);
     const router = useRouter();
-    console.log('requests ========>',requests)
     return (
         <nav className="relative max-w-full">
             <div className="flex px-10 sm:px-20 text-2xl whitespace-nowrap 
